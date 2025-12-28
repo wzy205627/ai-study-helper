@@ -1,3 +1,7 @@
 streamlit
-openai
-pdfplumber
+langchain
+langchain-community
+langchain-openai
+langchain-chroma
+pypdf
+pysqlite3-binary
